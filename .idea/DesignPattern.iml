@@ -7,6 +7,9 @@
       <sourceFolder url="file://$MODULE_DIR$/简单工厂模式/apply-pattern" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/外观模式/no-pattern" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/外观模式/apply-pattern" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/适配器模式/no-pattern/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/适配器模式/apply-pattern/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/模版/apply-pattern/src/main/java" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
