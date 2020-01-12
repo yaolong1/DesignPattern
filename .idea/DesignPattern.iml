@@ -10,6 +10,8 @@
       <sourceFolder url="file://$MODULE_DIR$/适配器模式/no-pattern/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/适配器模式/apply-pattern/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/模版/apply-pattern/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/模版/no-pattern/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/单例模式/no-pattern/src/main/java" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

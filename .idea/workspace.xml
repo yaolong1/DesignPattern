@@ -2,22 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="561c99ad-5434-438b-b0df-374ce1955e6f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/模版/xx模式.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/适配器模式/apply-pattern/src/main/java/LogMannagerAdapter/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/适配器模式/apply-pattern/src/main/java/LogMannagerAdapter/Target/LogDbOperateApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/适配器模式/apply-pattern/src/main/java/LogMannagerAdapter/adaptee/LogFileOperateApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/适配器模式/apply-pattern/src/main/java/LogMannagerAdapter/adapter/AdapterExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/适配器模式/apply-pattern/src/main/java/LogMannagerAdapter/impl/LogFileOperate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/适配器模式/no-pattern/src/main/java/logMannagerOne/Api/LogFileOperateApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/适配器模式/no-pattern/src/main/java/logMannagerOne/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/适配器模式/no-pattern/src/main/java/logMannagerOne/impl/LogFileOperate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/适配器模式/no-pattern/src/main/java/logMannagerOne/model/LogModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/适配器模式/no-pattern/src/main/java/logMannagerTwo/LogDbOperateApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模版/单例模式.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/DesignPattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DesignPattern.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/Test/AModuleImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/Test/AModuleImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/外观模式/外观模式.md" beforeDir="false" afterPath="$PROJECT_DIR$/外观模式/外观模式.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/模版/xx模式.md" beforeDir="false" afterPath="$PROJECT_DIR$/单例模式/xx模式.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,66 +13,96 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/适配器模式/apply-pattern/src/main/java/LogMannagerAdapter/Target/LogDbOperateApi.java">
+        <entry file="file://$PROJECT_DIR$/适配器模式/适配器模式.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="345">
+                <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/单例模式/xx模式.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="276">
+                <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/简单工厂模式/简单工厂模式.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-138" />
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/简单工厂模式/apply-pattern/Client2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="62">
-              <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+            <state relative-caret-position="299">
+              <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/简单工厂模式/apply-pattern/FactoryTest.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="5" selection-start-column="5" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/简单工厂模式/apply-pattern/Factory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/适配器模式/适配器模式.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <entry file="file://$PROJECT_DIR$/模版/单例模式.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="360">
-                <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
+              <first_editor relative-caret-position="184">
+                <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
               </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/适配器模式/apply-pattern/src/main/java/LogMannagerAdapter/impl/LogFileOperate.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-782">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/适配器模式/apply-pattern/src/main/java/LogMannagerAdapter/adapter/AdapterExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="22" column="42" lean-forward="true" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#682#683#0" expanded="true" />
-                <element signature="e#728#729#0" expanded="true" />
-                <element signature="e#1024#1025#0" expanded="true" />
-                <element signature="e#1076#1077#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/适配器模式/apply-pattern/src/main/java/LogMannagerAdapter/Client.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="41" column="16" lean-forward="true" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#774#784#0" expanded="true" />
-              </folding>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
             </state>
           </provider>
         </entry>
@@ -92,8 +110,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/适配器模式/apply-pattern/src/main/java/LogMannagerAdapter/adaptee/LogFileOperateApi.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="19" column="31" lean-forward="true" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+            <state relative-caret-position="391">
+              <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -104,7 +122,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/适配器模式/no-pattern/src/main/java/logMannagerOne/impl/LogFileOperate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
+            <state relative-caret-position="253">
               <caret line="15" column="56" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -116,8 +134,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/适配器模式/no-pattern/src/main/java/logMannagerOne/Api/LogFileOperateApi.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="23" column="50" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="23" selection-end-column="50" />
+            <state relative-caret-position="483">
+              <caret line="23" column="50" selection-start-line="14" selection-start-column="4" selection-end-line="23" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -152,7 +170,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/外观模式/no-pattern/DAO.java" />
         <option value="$PROJECT_DIR$/外观模式/no-pattern/Client.java" />
         <option value="$PROJECT_DIR$/外观模式/no-pattern/Client3.java" />
         <option value="$PROJECT_DIR$/简单工厂模式/apply-pattern/IFactory.java" />
@@ -185,7 +202,6 @@
         <option value="$PROJECT_DIR$/适配器模式/no-pattern/src/main/java/logMannagerOne/impl/LogFileOperate.java" />
         <option value="$PROJECT_DIR$/适配器模式/no-pattern/src/main/java/logMannagerTwo/LogDbOperateApi.java" />
         <option value="$PROJECT_DIR$/模版/xx模式.md" />
-        <option value="$PROJECT_DIR$/适配器模式/适配器模式.md" />
         <option value="$PROJECT_DIR$/模版/apply-pattern/src/main/java/logMannagerAdapter.java" />
         <option value="$PROJECT_DIR$/模版/apply-pattern/src/main/java/LogMannagerAdapter/LogMannagerAdapter.java" />
         <option value="$PROJECT_DIR$/模版/apply-pattern/src/main/java/LogMannagerAdapter/Target.java" />
@@ -203,6 +219,8 @@
         <option value="$PROJECT_DIR$/适配器模式/apply-pattern/src/main/java/LogMannagerAdapter/Target/Target.java" />
         <option value="$PROJECT_DIR$/适配器模式/apply-pattern/src/main/java/LogMannagerAdapter/Client.java" />
         <option value="$PROJECT_DIR$/适配器模式/apply-pattern/src/main/java/LogMannagerAdapter/adapter/AdapterExample.java" />
+        <option value="$PROJECT_DIR$/适配器模式/适配器模式.md" />
+        <option value="$PROJECT_DIR$/模版/单例模式.md" />
       </list>
     </option>
   </component>
@@ -237,7 +255,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -249,140 +266,25 @@
             <path>
               <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
               <item name="模版" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
               <item name="模版" type="462c0819:PsiDirectoryNode" />
-              <item name="apply-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="no-pattern" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
               <item name="模版" type="462c0819:PsiDirectoryNode" />
-              <item name="apply-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="no-pattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
               <item name="模版" type="462c0819:PsiDirectoryNode" />
-              <item name="apply-pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="适配器模式" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="适配器模式" type="462c0819:PsiDirectoryNode" />
-              <item name="apply-pattern" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="适配器模式" type="462c0819:PsiDirectoryNode" />
-              <item name="apply-pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="适配器模式" type="462c0819:PsiDirectoryNode" />
-              <item name="apply-pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="适配器模式" type="462c0819:PsiDirectoryNode" />
-              <item name="apply-pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="适配器模式" type="462c0819:PsiDirectoryNode" />
-              <item name="apply-pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="LogMannagerAdapter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="适配器模式" type="462c0819:PsiDirectoryNode" />
-              <item name="apply-pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="LogMannagerAdapter" type="462c0819:PsiDirectoryNode" />
-              <item name="adaptee" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="适配器模式" type="462c0819:PsiDirectoryNode" />
-              <item name="apply-pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="LogMannagerAdapter" type="462c0819:PsiDirectoryNode" />
-              <item name="adapter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="适配器模式" type="462c0819:PsiDirectoryNode" />
-              <item name="apply-pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="LogMannagerAdapter" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="适配器模式" type="462c0819:PsiDirectoryNode" />
-              <item name="apply-pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="LogMannagerAdapter" type="462c0819:PsiDirectoryNode" />
-              <item name="Target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="适配器模式" type="462c0819:PsiDirectoryNode" />
-              <item name="no-pattern" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="适配器模式" type="462c0819:PsiDirectoryNode" />
-              <item name="no-pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="适配器模式" type="462c0819:PsiDirectoryNode" />
               <item name="no-pattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
@@ -390,65 +292,26 @@
             <path>
               <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="适配器模式" type="462c0819:PsiDirectoryNode" />
-              <item name="no-pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="简单工厂模式" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="适配器模式" type="462c0819:PsiDirectoryNode" />
-              <item name="no-pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="logMannagerOne" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="适配器模式" type="462c0819:PsiDirectoryNode" />
-              <item name="no-pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="logMannagerOne" type="462c0819:PsiDirectoryNode" />
-              <item name="Api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="适配器模式" type="462c0819:PsiDirectoryNode" />
-              <item name="no-pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="logMannagerOne" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="适配器模式" type="462c0819:PsiDirectoryNode" />
-              <item name="no-pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="logMannagerTwo" type="462c0819:PsiDirectoryNode" />
+              <item name="简单工厂模式" type="462c0819:PsiDirectoryNode" />
+              <item name="apply-pattern" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/适配器模式/apply-pattern/src/main" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/模版" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -465,27 +328,27 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="impl" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Yaolong\Desktop\笔记\设计模式\DesignPattern" />
+      <recent name="C:\Users\Yaolong\Desktop\笔记\设计模式\DesignPattern\简单工厂模式\images" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="impl" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Yaolong\Desktop\笔记\设计模式\DesignPattern\单例模式" />
       <recent name="C:\Users\Yaolong\Desktop\笔记\设计模式\DesignPattern\适配器模式\apply-pattern\src\main" />
       <recent name="C:\Users\Yaolong\Desktop\笔记\设计模式\DesignPattern\适配器模式\apply-pattern\src\main\java" />
       <recent name="C:\Users\Yaolong\Desktop\笔记\设计模式\DesignPattern\模版\apply-pattern" />
       <recent name="C:\Users\Yaolong\Desktop\笔记\设计模式\DesignPattern\模版\no-pattern" />
-      <recent name="C:\Users\Yaolong\Desktop\笔记\设计模式\DesignPattern\适配器模式\apply-pattern" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="LogMannagerAdapter.impl" />
       <recent name="LogMannagerAdapter.Api" />
       <recent name="" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Yaolong\Desktop\笔记\设计模式\DesignPattern" />
-      <recent name="C:\Users\Yaolong\Desktop\笔记\设计模式\DesignPattern\简单工厂模式\images" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="impl" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -574,7 +437,8 @@
       <workItem from="1578573541766" duration="4893000" />
       <workItem from="1578620396767" duration="79000" />
       <workItem from="1578662250856" duration="479000" />
-      <workItem from="1578662825984" duration="3056000" />
+      <workItem from="1578662825984" duration="3262000" />
+      <workItem from="1578834262595" duration="379000" />
     </task>
     <task id="LOCAL-00001" summary="简单工厂模式">
       <created>1578492235419</created>
@@ -590,17 +454,31 @@
       <option name="project" value="LOCAL" />
       <updated>1578492289750</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="适配器模式模式">
+      <created>1578666028919</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578666028920</updated>
+    </task>
+    <task id="LOCAL-00004" summary="适配器模式模式">
+      <created>1578666049440</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578666049440</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14332000" />
+    <option name="totallyTimeSpent" value="14917000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26599148" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26865673" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="JRebel" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -610,7 +488,7 @@
       <window_info id="Designer" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -640,32 +518,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="简单工厂模式" />
-    <option name="LAST_COMMIT_MESSAGE" value="简单工厂模式" />
+    <MESSAGE value="适配器模式模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="适配器模式模式" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/外观模式/no-pattern/ConfigManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="15" column="42" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="42" />
-          <folding>
-            <element signature="e#616#617#0" expanded="true" />
-            <element signature="e#641#642#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/简单工厂模式/apply-pattern/IFactory.java" />
     <entry file="file://$PROJECT_DIR$/简单工厂模式/no-pattern/Api.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
           <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/简单工厂模式/apply-pattern/Client2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -699,16 +559,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
           <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/简单工厂模式/简单工厂模式.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1150">
-            <caret line="50" selection-start-line="50" selection-end-line="50" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -768,26 +618,7 @@
     <entry file="file://$PROJECT_DIR$/适配器模式/apply-pattern/Factory.java" />
     <entry file="file://$PROJECT_DIR$/适配器模式/apply-pattern/Impl1.java" />
     <entry file="file://$PROJECT_DIR$/适配器模式/apply-pattern/FactoryTest.properties" />
-    <entry file="file://$PROJECT_DIR$/外观模式/外观模式.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="4" selection-start-column="4" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/简单工厂模式/apply-pattern/Factory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/外观模式/外观模式.md" />
     <entry file="file://$PROJECT_DIR$/外观模式/apply-pattern/Test/Facade.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="736">
@@ -827,13 +658,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AdapterLog.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="92" selection-start-line="1" selection-start-column="92" selection-end-line="1" selection-end-column="92" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/AdapterLog.log" />
     <entry file="file://$PROJECT_DIR$/适配器模式/no-pattern/src/main/java/logMannagerTwo/LogDbOperateApi.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="16">
@@ -855,82 +680,57 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/模版/xx模式.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret selection-end-column="25" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/模版/apply-pattern/src/main/java/LogMannagerAdapter/api.java">
+    <entry file="file://$PROJECT_DIR$/模版/apply-pattern/src/main/java/LogMannagerAdapter/api.java" />
+    <entry file="file://$PROJECT_DIR$/模版/apply-pattern/src/main/java/LogMannagerAdapter/Api/Target.java" />
+    <entry file="file://$PROJECT_DIR$/模版/apply-pattern/src/main/java/LogMannagerAdapter/Adaptee.java" />
+    <entry file="file://$PROJECT_DIR$/模版/apply-pattern/src/main/java/LogMannagerAdapter/Client.java" />
+    <entry file="file://$PROJECT_DIR$/适配器模式/apply-pattern/src/main/java/java/LogMannagerAdapter/Api/Target.java" />
+    <entry file="file://$PROJECT_DIR$/适配器模式/apply-pattern/src/main/java/java/LogMannagerAdapter/impl/Adapter.java" />
+    <entry file="file://$PROJECT_DIR$/适配器模式/apply-pattern/src/main/java/java/LogMannagerAdapter/Adaptee.java" />
+    <entry file="file://$PROJECT_DIR$/适配器模式/apply-pattern/src/main/java/java/LogMannagerAdapter/Client.java" />
+    <entry file="file://$PROJECT_DIR$/模版/apply-pattern/src/main/java/LogMannagerAdapter/impl/Adapter.java" />
+    <entry file="file://$PROJECT_DIR$/适配器模式/apply-pattern/src/main/java/LogMannagerAdapter/Api/LogFileOperateApi.java" />
+    <entry file="file://$PROJECT_DIR$/适配器模式/apply-pattern/src/main/java/LogMannagerAdapter/adaptee/Adaptee.java" />
+    <entry file="file://$PROJECT_DIR$/适配器模式/apply-pattern/src/main/java/LogMannagerAdapter/adapter/Adapter.java" />
+    <entry file="file://$PROJECT_DIR$/适配器模式/apply-pattern/src/main/java/LogMannagerAdapter/Target/Target.java" />
+    <entry file="file://$PROJECT_DIR$/适配器模式/apply-pattern/src/main/java/LogMannagerAdapter/Target/LogDbOperateApi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        <state relative-caret-position="391">
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/模版/apply-pattern/src/main/java/LogMannagerAdapter/Api/Target.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/模版/apply-pattern/src/main/java/LogMannagerAdapter/Adaptee.java">
+    <entry file="file://$PROJECT_DIR$/适配器模式/apply-pattern/src/main/java/LogMannagerAdapter/impl/LogFileOperate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
-          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/模版/apply-pattern/src/main/java/LogMannagerAdapter/Client.java">
+    <entry file="file://$PROJECT_DIR$/适配器模式/apply-pattern/src/main/java/LogMannagerAdapter/adapter/AdapterExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        <state relative-caret-position="414">
+          <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/适配器模式/apply-pattern/src/main/java/java/LogMannagerAdapter/Api/Target.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/适配器模式/apply-pattern/src/main/java/java/LogMannagerAdapter/impl/Adapter.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/适配器模式/apply-pattern/src/main/java/java/LogMannagerAdapter/Adaptee.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/适配器模式/apply-pattern/src/main/java/java/LogMannagerAdapter/Client.java">
+    <entry file="file://$PROJECT_DIR$/适配器模式/apply-pattern/src/main/java/LogMannagerAdapter/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/模版/apply-pattern/src/main/java/LogMannagerAdapter/impl/Adapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="27" column="25" lean-forward="true" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+        <state relative-caret-position="782">
+          <caret line="41" column="16" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#377#378#0" expanded="true" />
-            <element signature="e#415#416#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/适配器模式/apply-pattern/src/main/java/LogMannagerAdapter/Api/LogFileOperateApi.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/适配器模式/no-pattern/src/main/java/logMannagerOne/Api/LogFileOperateApi.java">
+    <entry file="file://$PROJECT_DIR$/适配器模式/apply-pattern/src/main/java/LogMannagerAdapter/adaptee/LogFileOperateApi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="23" column="50" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="23" selection-end-column="50" />
+        <state relative-caret-position="391">
+          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -939,7 +739,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/适配器模式/no-pattern/src/main/java/logMannagerOne/impl/LogFileOperate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
+        <state relative-caret-position="253">
           <caret line="15" column="56" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -947,83 +747,83 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/适配器模式/apply-pattern/src/main/java/LogMannagerAdapter/adaptee/Adaptee.java">
+    <entry file="file://$PROJECT_DIR$/适配器模式/no-pattern/src/main/java/logMannagerOne/Api/LogFileOperateApi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/适配器模式/apply-pattern/src/main/java/LogMannagerAdapter/adapter/Adapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/适配器模式/apply-pattern/src/main/java/LogMannagerAdapter/impl/LogFileOperate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-782">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/适配器模式/apply-pattern/src/main/java/LogMannagerAdapter/Target/Target.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/适配器模式/apply-pattern/src/main/java/LogMannagerAdapter/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="41" column="16" lean-forward="true" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
+        <state relative-caret-position="483">
+          <caret line="23" column="50" selection-start-line="14" selection-start-column="4" selection-end-line="23" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#774#784#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/适配器模式/apply-pattern/src/main/java/LogMannagerAdapter/Target/LogDbOperateApi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/适配器模式/apply-pattern/src/main/java/LogMannagerAdapter/adaptee/LogFileOperateApi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="19" column="31" lean-forward="true" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/适配器模式/apply-pattern/src/main/java/LogMannagerAdapter/adapter/AdapterExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="22" column="42" lean-forward="true" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#682#683#0" expanded="true" />
-            <element signature="e#728#729#0" expanded="true" />
-            <element signature="e#1024#1025#0" expanded="true" />
-            <element signature="e#1076#1077#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/适配器模式/适配器模式.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="360">
-            <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
+          <first_editor relative-caret-position="345">
+            <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
           </first_editor>
-          <second_editor />
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/单例模式/xx模式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="276">
+            <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/简单工厂模式/简单工厂模式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-138" />
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/简单工厂模式/apply-pattern/Client2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/简单工厂模式/apply-pattern/FactoryTest.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/简单工厂模式/apply-pattern/Factory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/模版/单例模式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="184">
+            <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
         </state>
       </provider>
     </entry>
