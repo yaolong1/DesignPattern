@@ -2,18 +2,225 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="561c99ad-5434-438b-b0df-374ce1955e6f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/单例模式/apply-pattern/src/main/java/test/AppConfig.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/单例模式/apply-pattern/src/main/java/test/Singleton/AppConfigEHan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/单例模式/apply-pattern/src/main/java/test/Singleton/SingletonEHan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/单例模式/apply-pattern/src/main/java/test/Singleton/SingletonLanHan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/单例模式/apply-pattern/src/main/java/test/client/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/单例模式/no-pattern/src/main/java/test/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/单例模式/no-pattern/src/main/java/test/AppConfig.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/单例模式/no-pattern/src/main/java/test/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/yaolong.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_37.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/spring_aop_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/spring_aop_5_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/spring_core_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/spring_webmvc_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/单例模式类图.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/调用顺序示意图-单例模式.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/LogMannagerAdapter/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/LogMannagerAdapter/Target/LogDbOperateApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/LogMannagerAdapter/adaptee/LogFileOperateApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/LogMannagerAdapter/adapter/AdapterExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/LogMannagerAdapter/impl/LogFileOperate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/Test/AppConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/Test/AppConfig.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/Test/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/Test/Singleton/AppConfigEHan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/Test/Singleton/SingletonEHan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/Test/Singleton/SingletonLanHan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/Test/client/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/logMannagerOne/Api/LogFileOperateApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/logMannagerOne/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/logMannagerOne/impl/LogFileOperate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/logMannagerOne/model/LogModel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/logMannagerTwo/LogDbOperateApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/ChainofResponsibility/no/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/ChainofResponsibility/no/FeeRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/ChainofResponsibility/yes/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/ChainofResponsibility/yes/DepManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/ChainofResponsibility/yes/GeneralManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/ChainofResponsibility/yes/Handler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/ChainofResponsibility/yes/ProjectManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/Command/AddCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/Command/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/Command/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/Command/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/Command/Operation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/Command/OperationApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/Command/SubtractCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/FactorMethod/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/FactorMethod/ExportDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/FactorMethod/ExportDBOperate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/FactorMethod/ExportFileApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/FactorMethod/ExportOperate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/FactorMethod/ExportOperate2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/FactorMethod/ExportOperate3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/FactorMethod/ExportTextFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/FactorMethod/ExportTextFileOperate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/FactorMethod/ExportXml.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/LogMannagerAdapter/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/LogMannagerAdapter/Target/LogDbOperateApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/LogMannagerAdapter/adaptee/LogFileOperateApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/LogMannagerAdapter/adapter/AdapterExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/LogMannagerAdapter/adapter/AdapterExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/LogMannagerAdapter/impl/LogFileOperate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/absfactory/CPUApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/absfactory/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/absfactory/GAMainboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/absfactory/IntelCPU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/absfactory/MSIMainboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/absfactory/MainboardApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/absfactory/no/CPUFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/absfactory/no/ComputerEngineer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/absfactory/yes/AbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/absfactory/yes/ComputerEngineer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/absfactory/yes/Schema1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/absfactory/yes/Schema2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/adapter/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/bridge/AbstractMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/bridge/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/bridge/CommonMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/bridge/MessageEmail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/bridge/MessageImplementor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/bridge/MessageMobile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/bridge/MessageSMS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/bridge/SpecialUrgencyMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/bridge/UrgencyMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/builder/no/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/builder/no/ExportFooterModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/builder/no/ExportHeaderModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/builder/no/ExportToTxt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/builder/no/ExportToXml.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/builder/yes/AbstractBuilderFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/builder/yes/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/builder/yes/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/builder/yes/TxtBuilderFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/builder/yes/XmlBuilderFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/composite/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/composite/Component.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/composite/Composite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/composite/Leaf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/decorator/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/decorator/Component.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/decorator/ConcreteComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/decorator/Decorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/decorator/GroupPrizeDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/decorator/MonthPrizeDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/decorator/SumPrizeDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/decorator/TempDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/flyweight/no/AuthorizationModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/flyweight/no/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/flyweight/no/SecurityMgr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/flyweight/yes/AuthorizationFlyweight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/flyweight/yes/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/flyweight/yes/Flyweight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/flyweight/yes/FlyweightFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/flyweight/yes/SecurityMgr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/interpreter/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/interpreter/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/interpreter/ElementExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/interpreter/ElementTerminalExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/interpreter/PropertyTerminalExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/interpreter/ReadXmlExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/interpreter/XmlUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/iterator/javaiterator/Aggregate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/iterator/javaiterator/ArrayIteratorImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/iterator/simpleiterator/Aggregate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/iterator/simpleiterator/ArrayIteratorImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/iterator/simpleiterator/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/iterator/simpleiterator/CollectionIteratorImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/iterator/simpleiterator/Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/iterator/simpleiterator/PayManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/iterator/simpleiterator/PayModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/iterator/simpleiterator/SalaryManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/mediator/CDDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/mediator/CPU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/mediator/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/mediator/Colleague.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/mediator/Mediator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/mediator/MotherBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/mediator/SoundCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/mediator/VideoCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/memento/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/memento/FlowAMementoCareTaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/memento/FlowAMock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/memento/FlowAMockMemento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/observer/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/observer/NewsPaper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/observer/Reader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/observer/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/observer/javaOberver/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/observer/javaOberver/NewsPaper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/observer/javaOberver/Reader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/prototype/no/EnterpriseOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/prototype/no/OrderApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/prototype/no/OrderBusiness.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/prototype/no/OrderClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/prototype/no/PersonalOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/prototype/yes/EnterpriseOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/prototype/yes/OrderApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/prototype/yes/OrderClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/prototype/yes/PersonalOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/proxy/cglibproxy/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/proxy/cglibproxy/ProxyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/proxy/cglibproxy/TeacherDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/proxy/cglibproxy/spring-aop-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/proxy/jdkproxy/ITeacherDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/proxy/jdkproxy/ProxyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/proxy/jdkproxy/TeacherDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/proxy/staticproxy/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/proxy/staticproxy/ITeacherDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/proxy/staticproxy/ProxyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/proxy/staticproxy/TeacherDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/sigleton/SingletonTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/simplefactory/Api.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/simplefactory/Factory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/simplefactory/Impl2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/simplefactory/Impl3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/simplefactory/SimpleFactoryClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/simplefactory/myTest.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/state/no/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/state/no/VoteManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/state/yes/BlackVoteState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/state/yes/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/state/yes/RepeatVoteState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/state/yes/SpiteVoteState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/state/yes/VoteManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/state/yes/VoteState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/strategy/no/Price.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/strategy/yes/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/strategy/yes/LargeCustomerStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/strategy/yes/NormalCustomerStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/strategy/yes/OldCustomerStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/strategy/yes/Price.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/strategy/yes/Strategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/templatemethod/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/templatemethod/LoginModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/templatemethod/NormalLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/templatemethod/WorkerLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/templatemethod/callback/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/templatemethod/callback/LoginCallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/templatemethod/callback/Template.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/visitor/Cilent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/visitor/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/visitor/EnterpriseCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/visitor/ObjectStructure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/visitor/PersonalCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/visitor/PredilectionAnalyzeVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/visitor/ServiceRequestVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/visitor/Visitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/visitor/componentandvisitor/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/visitor/componentandvisitor/Component.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/visitor/componentandvisitor/Composite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/visitor/componentandvisitor/Leaf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/visitor/componentandvisitor/ObjectStructure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/visitor/componentandvisitor/PrintNameVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/visitor/componentandvisitor/Visitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resorces/InterpreterTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模版/java/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模版/java/Test2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/DesignPattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DesignPattern.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/META-INF/DesignPattern.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/单例模式/单例模式.md" beforeDir="false" afterPath="$PROJECT_DIR$/单例模式/单例模式.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/Client2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/Client2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/FactoryTest.properties" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/FactoryTest.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/Test/Facade.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/Test/Facade.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/外观模式/apply-pattern/Test/Facade.java" beforeDir="false" afterPath="$PROJECT_DIR$/外观模式/apply-pattern/Test/Facade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/简单工厂模式/apply-pattern/Client2.java" beforeDir="false" afterPath="$PROJECT_DIR$/简单工厂模式/apply-pattern/Client2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/简单工厂模式/apply-pattern/FactoryTest.properties" beforeDir="false" afterPath="$PROJECT_DIR$/简单工厂模式/apply-pattern/FactoryTest.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +232,20 @@
       <executable />
     </execution>
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
@@ -32,20 +253,11 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Singleton" />
+        <option value="UML Class" />
         <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>a</find>
-    </findStrings>
-    <replaceStrings>
-      <replace />
-      <replace>b</replace>
-      <replace>c</replace>
-    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -77,10 +289,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultPlantUmlFileTemplate" value="UML Class" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/单例模式/apply-pattern/src/main/java/test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/iterator/javaiterator" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -94,7 +307,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -104,31 +317,34 @@
       <recent name="impl" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\javaSEProject\DesignMode\单例模式\apply-pattern\src\main\java\test" />
-      <recent name="C:\javaSEProject\DesignMode\单例模式\apply-pattern" />
-      <recent name="C:\Users\Yaolong\Desktop\笔记\设计模式\DesignPattern\单例模式" />
-      <recent name="C:\Users\Yaolong\Desktop\笔记\设计模式\DesignPattern\适配器模式\apply-pattern\src\main" />
-      <recent name="C:\Users\Yaolong\Desktop\笔记\设计模式\DesignPattern\适配器模式\apply-pattern\src\main\java" />
+      <recent name="C:\javaSEProject\DesignMode\src\main\java\com\yaolong\design\mode\proxy" />
+      <recent name="C:\javaSEProject\DesignMode\src\main\java\com\yaolong\design\mode\proxy\cglibproxy" />
+      <recent name="C:\javaSEProject\DesignMode\src\main\java\com\yaolong\design\mode\proxy\jdkproxy" />
+      <recent name="C:\javaSEProject\DesignMode\模版" />
+      <recent name="C:\javaSEProject\DesignMode\src\main\java\com\yaolong\design\mode" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="test.client" />
-      <recent name="LogMannagerAdapter.impl" />
-      <recent name="LogMannagerAdapter.Api" />
-      <recent name="" />
+      <recent name="com.yaolong.design.mode.state.yes" />
+      <recent name="com.yaolong.design.mode.templatemethod.callback" />
+      <recent name="com.yaolong.design.mode.proxy.cglibproxy" />
+      <recent name="com.yaolong.design.mode.proxy.jdkproxy" />
+      <recent name="com.yaolong.design.mode.flyweight.yes" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\javaSEProject\DesignMode\单例模式\apply-pattern\src" />
-      <recent name="C:\Users\Yaolong\Desktop\笔记\设计模式\DesignPattern" />
-      <recent name="C:\Users\Yaolong\Desktop\笔记\设计模式\DesignPattern\简单工厂模式\images" />
+      <recent name="C:\javaSEProject\DesignMode\src\main\resorces" />
+      <recent name="C:\javaSEProject\DesignMode\src\main\java\com\yaolong\design\mode\proxy\cglibproxy" />
+      <recent name="C:\javaSEProject\DesignMode\src\main\java\com\yaolong\design\mode\simplefactory" />
+      <recent name="C:\javaSEProject\DesignMode\src\main" />
+      <recent name="C:\javaSEProject\DesignMode\src\main\java\com\yaolong\design\mode\SimpleFactory" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Client (2)">
-    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.Client" />
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yaolong.design.mode.state.no.Client" />
       <module name="DesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="com.yaolong.design.mode.state.no.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +352,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.client.Client" />
+    <configuration name="Client (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yaolong.design.mode.strategy.yes.Client" />
       <module name="DesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.client.*" />
+          <option name="PATTERN" value="com.yaolong.design.mode.strategy.yes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yaolong.design.mode.state.yes.Client" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yaolong.design.mode.state.yes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yaolong.design.mode.ChainofResponsibility.no.Client" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yaolong.design.mode.ChainofResponsibility.no.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,11 +392,11 @@
       </method>
     </configuration>
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="logMannagerOne.Client" />
+      <option name="MAIN_CLASS_NAME" value="com.yaolong.design.mode.ChainofResponsibility.yes.Client" />
       <module name="DesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="logMannagerOne.*" />
+          <option name="PATTERN" value="com.yaolong.design.mode.ChainofResponsibility.yes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,33 +404,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Facade (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test.Facade" />
-      <module name="DesignPattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Facade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Facade" />
-      <module name="DesignPattern" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <list>
+      <item itemvalue="Application.Client (2)" />
+      <item itemvalue="Application.Client (4)" />
+      <item itemvalue="Application.Client (3)" />
+      <item itemvalue="Application.Client (5)" />
+      <item itemvalue="Application.Client" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Client (2)" />
-        <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.Client" />
-        <item itemvalue="Application.Facade (1)" />
-        <item itemvalue="Application.Facade" />
+        <item itemvalue="Application.Client (5)" />
+        <item itemvalue="Application.Client (3)" />
+        <item itemvalue="Application.Client (4)" />
+        <item itemvalue="Application.Client (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -223,6 +452,40 @@
       <workItem from="1578662825984" duration="3262000" />
       <workItem from="1578834262595" duration="379000" />
       <workItem from="1578836493645" duration="3966000" />
+      <workItem from="1579175713676" duration="603000" />
+      <workItem from="1579582452527" duration="4356000" />
+      <workItem from="1579747066804" duration="1102000" />
+      <workItem from="1580010085640" duration="22880000" />
+      <workItem from="1580813036370" duration="231000" />
+      <workItem from="1581064351067" duration="6253000" />
+      <workItem from="1581071598753" duration="3371000" />
+      <workItem from="1581161736118" duration="18843000" />
+      <workItem from="1581566873293" duration="6571000" />
+      <workItem from="1581741769667" duration="3175000" />
+      <workItem from="1581778950744" duration="15980000" />
+      <workItem from="1582105650335" duration="9073000" />
+      <workItem from="1582274027946" duration="6132000" />
+      <workItem from="1582422407178" duration="13195000" />
+      <workItem from="1582614223473" duration="4913000" />
+      <workItem from="1582787511183" duration="4661000" />
+      <workItem from="1582876683460" duration="3879000" />
+      <workItem from="1582942256883" duration="48000" />
+      <workItem from="1582942330064" duration="37807000" />
+      <workItem from="1583331375896" duration="3023000" />
+      <workItem from="1583395102730" duration="15822000" />
+      <workItem from="1583816587466" duration="1869000" />
+      <workItem from="1583818547770" duration="842000" />
+      <workItem from="1583928365897" duration="7120000" />
+      <workItem from="1583980387261" duration="4685000" />
+      <workItem from="1584097676543" duration="8513000" />
+      <workItem from="1584282096587" duration="2212000" />
+      <workItem from="1584334881437" duration="1428000" />
+      <workItem from="1584500079235" duration="1313000" />
+      <workItem from="1584667034202" duration="9468000" />
+      <workItem from="1585042646961" duration="3722000" />
+      <workItem from="1585129809256" duration="2164000" />
+      <workItem from="1585187423497" duration="1236000" />
+      <workItem from="1585191618179" duration="2388000" />
     </task>
     <task id="LOCAL-00001" summary="简单工厂模式">
       <created>1578492235419</created>
@@ -264,124 +527,135 @@
     <option name="LAST_COMMIT_MESSAGE" value="适配器模式模式" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="361" y="79" key="#Inspections" timestamp="1583288622337">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="79" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1583288622337" />
+    <state x="361" y="71" key="#Project_Structure" timestamp="1583200955162">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1583200955162" />
+    <state x="390" y="193" width="882" height="534" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580231749915">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="390" y="193" width="882" height="534" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1580231749915" />
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1584282595451">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1584282595451" />
+    <state x="367" y="337" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1585194326059">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="367" y="337" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1585194326059" />
+    <state x="535" y="271" width="502" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1583049730629">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="535" y="271" width="502" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1583049730629" />
+    <state x="580" y="283" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1581235637499">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="580" y="283" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824@0.0.1536.824" timestamp="1581235637499" />
     <state x="499" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578837279679">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.77.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1578837279679" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1578840145916">
+    <state x="499" y="167" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1581743323098">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="167" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.824@0.0.1536.824" timestamp="1581743323098" />
+    <state x="372" y="5" key="CommitChangelistDialog2" timestamp="1578840496086">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="372" y="5" key="CommitChangelistDialog2/-1920.77.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1578840496086" />
+    <state x="504" y="0" key="Diagram.Print.Preview.Dialog" timestamp="1581162410288">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="504" y="0" key="Diagram.Print.Preview.Dialog/0.0.1536.824@0.0.1536.824" timestamp="1581162410288" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1582456392629">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1582456392629" />
+    <state x="549" y="177" key="FileChooserDialogImpl" timestamp="1583118175125">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="177" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583118175125" />
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1585212689492">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="210" key="GridCell.Tab.0.bottom/-1920.77.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1578840145916" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1578840145916">
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585212689492" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1585212689492">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="210" key="GridCell.Tab.0.center/-1920.77.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1578840145916" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1578840145916">
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585212689492" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1585212689492">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="210" key="GridCell.Tab.0.left/-1920.77.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1578840145916" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1578840145916">
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585212689492" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1585212689492">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="210" key="GridCell.Tab.0.right/-1920.77.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1578840145916" />
-    <state x="270" y="54" key="SettingsEditor" timestamp="1578837263470">
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585212689492" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1585212689492">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="270" y="54" key="SettingsEditor/-1920.77.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1578837263470" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585212689492" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1585212689492">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1585212689492" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1585212689492">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1585212689492" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1585212689492">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1585212689492" />
+    <state x="170" y="78" width="1350" height="715" key="SettingsEditor" timestamp="1581910811108">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="54" key="SettingsEditor/-1920.77.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1578840506441" />
+    <state x="170" y="78" width="1350" height="715" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1581910811108" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1578840679364">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/-1920.77.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1578840679364" />
+    <state x="428" y="247" key="com.intellij.ide.util.TipDialog" timestamp="1583980387492">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="428" y="247" key="com.intellij.ide.util.TipDialog/-1920.77.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1579175713668" />
+    <state x="428" y="247" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1583980387492" />
     <state x="558" y="91" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1578836520522">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="558" y="91" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1920.77.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1578836520522" />
-    <state x="425" y="187" key="run.anything.popup" timestamp="1578838345651">
+    <state x="425" y="187" key="run.anything.popup" timestamp="1584840226669">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="425" y="187" key="run.anything.popup/-1920.77.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1578838345651" />
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1584840226669" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1583205327945">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1583205327945" />
   </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>DesignPattern</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Cloneable.java</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/ChainofResponsibility/yes/ProjectManager.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

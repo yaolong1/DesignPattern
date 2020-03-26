@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-aop-5.2.1.RELEASE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/java/com/yaolong/design/mode/proxy/cglibproxy/spring-aop-5.2.1.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

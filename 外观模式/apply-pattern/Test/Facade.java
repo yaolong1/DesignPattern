@@ -6,6 +6,18 @@ package Test;
  * 外观对象
  */
 public  class Facade implements FacadeApi {
+
+    private AModuleApi a;
+    private BModuleApi b;
+    private CModuleApi c;
+
+    public Facade(){
+        this.a = new AModuleImpl();
+        this.b = new BModuleImpl();
+        this.c = new CModuleImpl();
+    }
+
+
     @Override
     public void a1() {
         AModuleApi a = new AModuleImpl();
@@ -29,12 +41,9 @@ public  class Facade implements FacadeApi {
     @Override
     public void test(){
         //在内部实现的时候，可能会调用到内部的多个模块
-        AModuleApi a = new AModuleImpl();
-        a.testA();
-        BModuleApi b = new BModuleImpl();
-        b.testB();
-        CModuleApi c = new CModuleImpl();
-        c.testC();
+        this.a.testA();
+        this.b.testB();
+        this.c.testC();
     }
 
     /**
@@ -42,9 +51,8 @@ public  class Facade implements FacadeApi {
      * @param args
      */
     public static void main(String[] args) {
-
-        FacadeApi api =  new Facade();
-        api.a1();
+       new Facade().test();
+//        api.a1();
 
     }
 }

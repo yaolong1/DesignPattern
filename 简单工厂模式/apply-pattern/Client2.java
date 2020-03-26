@@ -15,7 +15,7 @@ public class Client2  {
 
         //配置文件方式调用
         Api api2 = Factory.createApi2();
-        api2.test1("这是impl2");
+        api2.test1("这是impl1");
 
     }
 }

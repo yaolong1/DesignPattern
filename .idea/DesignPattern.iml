@@ -13,8 +13,16 @@
       <sourceFolder url="file://$MODULE_DIR$/模版/no-pattern/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/单例模式/no-pattern/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/单例模式/apply-pattern/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/模版/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resorces" type="java-resource" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="spring-webmvc-5.1.9.RELEASE" level="project" />
+    <orderEntry type="library" name="spring-core-5.1.9.RELEASE" level="project" />
+    <orderEntry type="library" name="mysql-connector-java-5.1.37" level="project" />
+    <orderEntry type="library" name="spring-aop-5.2.1.RELEASE" level="project" />
+    <orderEntry type="library" name="spring-aop-5.1.9.RELEASE" level="project" />
   </component>
 </module>
